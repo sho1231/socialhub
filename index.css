@@ -1,0 +1,21 @@
+body{
+    background-color:#d3d3d3de;
+}
+.fa{
+    color:#4183D7;
+}
+.title{
+    margin:15px 0px ;
+}
+a{
+    color:#4183D7;
+    border-bottom:2px solid #4183D7;
+}
+.box-part{
+    background-color:whitesmoke;
+    padding:50px 10px;
+    margin: 30px 0px;
+}
+.box{
+    padding:60px 0px;
+}
